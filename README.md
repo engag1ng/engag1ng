@@ -2,7 +2,7 @@
 
 **`Released KeyForU`**
 
-I'm a self taught student and working to provide value and innovative ideas to the world. Started in late 2019 and not close to the end.
+I'm a self taught student and working to provide value and innovative ideas to the world since 2019.
 ---
 
 ### ⚙ Languages and Tools
