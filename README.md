@@ -1,7 +1,7 @@
 # 💻Constantin - engag1ng
 
 
-I'm a student working on improving the world of FOSS and self taught. I started coding in 2019.
+I'm a self taught computer enthusiast working on improving the world of FOSS. I started coding in 2019 and think of stopping.
 ---
 ### 🛠️Current project
 [Track-My-Gains](https://github.com/engag1ng/Track-My-Gains)
