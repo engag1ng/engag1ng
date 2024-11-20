@@ -4,7 +4,7 @@
 Everybody has a problem, I'm trying to solve it with FOSS. I'm a self taught student and started in 2019.
 ---
 ### 🛠️Current project
-[Track-My-Gains](https://github.com/engag1ng/Track-My-Gains)
+[Kryptos](https://github.com/engag1ng/Kryptos)
 
 ### ⚙ Languages and Tools
  
