@@ -4,7 +4,7 @@
 Everybody has a problem, I'm trying to solve it with FOSS. I'm a self taught student and started in 2019.
 ---
 ### 🛠️Current project
-[Simple network scanner](https://github.com/engag1ng/simple-network-scanner)
+[Perveyor](https://github.com/engag1ng/perveyor)
 
 ### ⚙ Languages and Tools
  
