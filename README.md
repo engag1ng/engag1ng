@@ -4,7 +4,7 @@
 Everybody has a problem, I'm trying to solve it with FOSS. I'm a self taught student and started in 2019.
 ---
 ### 🛠️Current project
-[Perveyor](https://github.com/engag1ng/perveyor)
+[Cruveyor](https://github.com/engag1ng/cruveyor)
 
 ### ⚙ Languages and Tools
  
