@@ -1,7 +1,7 @@
 # 💻Constantin - engag1ng
 
 
-Everybody has a problem, I'm trying to solve it with FOSS. I'm a self taught student and started in 2019.
+FOSS is my passion, cybersecurity is my dream! In progress since 2019... 🐐
 ---
 ### 🛠️Current project
 [Cruveyor](https://github.com/engag1ng/cruveyor)
