@@ -1,7 +1,7 @@
 # 💻Constantin - engag1ng
 
 
-FOSS is my passion, cybersecurity is my dream! In progress since 2019... 🐐
+I'm a student and passionate programmer looking to build cool stuff to help others. 🗻🐐
 ---
 ### 🛠️Current project
 [Stock Simulator](https://github.com/engag1ng/stock-simulation)
