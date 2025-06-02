@@ -1,7 +1,7 @@
 # 💻Constantin - engag1ng
 
 
-I'm a student and passionate programmer looking to build cool stuff to help others. 🗻🐐
+I'm a student and passionate programmer; building cool stuff to help others. 🗻🐐
 ---
 ### 🛠️Current project
 [Stock Simulator](https://github.com/engag1ng/stock-simulation)
