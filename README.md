@@ -1,8 +1,7 @@
 # 💻Constantin - engag1ng
 
 
-I'm a student and passionate programmer - building cool stuff to help others. 
-Chasing the dream...🗻🐐
+I'm an international student and passionate programmer. Chasing the dream...🗻🐐
 ---
 ### 🛠️Current project
 [Hirmes](https://github.com/engag1ng/hirmes)
