@@ -8,3 +8,4 @@ Everyone can be great, only some can be the greatest 🐐
 
 ### My work
 [Notary Website](https://notarin-reinhold.de)
+[Blog](https://engag1ng.github.io)
